@@ -1,7 +1,7 @@
 ## Hi there 👋! My name is David
 I'm full stack developer!
 
-- 🔭 I’m currently working as Vue dev
+- 🔭 I’m currently working as full-stack dev
 - 🌱 I’m currently learning Rust ❤️
 
 <!--
